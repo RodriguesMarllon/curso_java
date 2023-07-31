@@ -17,8 +17,6 @@ public class Main {
 		}
 		System.out.println(soma);
 		
-		//estou fazendo um teste de commit
-		
 		sc.close();
 
 	}
